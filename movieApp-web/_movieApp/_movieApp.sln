@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_movieApp.WebUI", "_movieApp.WebUI\_movieApp.WebUI.csproj", "{F65E00C6-00D3-4B2A-80C0-B3FF0C13B7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65E00C6-00D3-4B2A-80C0-B3FF0C13B7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65E00C6-00D3-4B2A-80C0-B3FF0C13B7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65E00C6-00D3-4B2A-80C0-B3FF0C13B7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65E00C6-00D3-4B2A-80C0-B3FF0C13B7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29F3F4C-B090-4EE9-8538-57CDC495DC08}
+	EndGlobalSection
+EndGlobal
